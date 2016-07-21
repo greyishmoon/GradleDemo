@@ -63,8 +63,7 @@ fabric.properties
 .mtj.tmp/
 
 # Package Files #
-# .jar included for RoomCalculator to provide jar access
-# *.jar
+*.jar
 *.war
 *.ear
 
